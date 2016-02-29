@@ -1,12 +1,10 @@
 iOScreator
 ===========
 
-Source Code of iOS tutorials at ioscreator.com
+Source Code of iOS tutorials.
 
 ===========================================================================================================
 CODE EXAMPLES REPOSITORY
-
-  See http://ioscreator.com for a detailed description 
 
   This README last updated: 28-Feb-2016
 ===========================================================================================================
